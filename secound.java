@@ -1,4 +1,4 @@
-import java.lang.*;
+import java.lang.*;u
 import java.util.*;
 class secound{
 	public static void main(String arg[])
